@@ -42,6 +42,6 @@ The objective of this internship was to bridge theoretical computer science conc
 
 ## 🌟 Connect & Collaborate
 * **Internship Provider:** CodeAlpha
-* **Developer Profile:** [Aleenasayyed](https://github.com/aleenasayyed)
+* **Developer Profile:** [Aleenasayyed]**(https://github.com/aleenasayyed)**
 
 *Feel free to explore the source code directories above. Feedback and suggestions are always welcome!*
